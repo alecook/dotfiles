@@ -1,0 +1,19 @@
+{
+    // Editor
+    "editor.fontSize": 14,
+    "editor.fontFamily": "Monaco",
+    "editor.minimap.enabled": false,
+    "editor.tabSize": 2,
+    "editor.rulers": [80,120],
+    // WorkBench aka general
+    "workbench.startupEditor": "newUntitledFile",
+    "workbench.iconTheme": null,
+    "workbench.colorTheme": "Night Owl",
+    "workbench.colorCustomizations": {
+        "statusBar.background": "#2e423f",
+        "sideBar.border": "#162d40",
+    },
+    "workbench.activityBar.visible": false,
+    "search.location": "panel",
+    "javascript.updateImportsOnFileMove.enabled": "always"
+}
